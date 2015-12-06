@@ -1,6 +1,6 @@
 //
 //  Astrid.h
-//  Astrid framework
+//  Astrid Framework
 //
 //  Created by Enis Gayretli on 11/3/15.
 //
