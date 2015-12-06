@@ -1,6 +1,6 @@
 //
 //  SkyFunnel.h
-//  OptimalSkyfunnel
+//  Astrid Framework
 //
 //  Created by Enis Gayretli on 9.10.2015.
 //
