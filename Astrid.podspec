@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "Astrid"
+  s.name         = "Skyfunnel"
   s.version      = "0.0.1"
   s.summary = 'Know your user's best re-engagement time'
   s.description = 'Skyfunnel predicts the best time to re-engage users, by analyzing their footprints inside the App Store applications. Its machine intelligence monitors mobile behavior of each unique user, and determines the best re-engagement time. It is incredibly lightweight, and can be added to an application with a single line of code.
