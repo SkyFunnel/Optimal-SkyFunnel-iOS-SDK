@@ -1,8 +1,8 @@
 //
 //  Astrid.h
-//  Astrid
+//  Astrid framework
 //
-//  Created by joshmay on 11/3/15.
+//  Created by Enis Gayretli on 11/3/15.
 //
 //
 
