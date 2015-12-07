@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.preserve_paths = 'Astrid.framework'
   s.documentation_url = 'https://www.skyfunnel.co/index.php/documentation'
   s.ios.vendored_frameworks = 'Frameworks/Astrid.framework'
+  s.vendored_frameworks = 'Astrid.framework'
   s.requires_arc = true
 end
 
