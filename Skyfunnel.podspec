@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "Skyfunnel"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "Know your users best re-engagement time"
   s.description  = <<-DESC
 
