@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.social_media_url = 'https://twitter.com/skyfunnelco'
   s.ios.deployment_target = '6.0'
   s.platform = :ios, '6.0'
-  s.source = { :git => 'https://github.com/SkyFunnel/Optimal-SkyFunnel-iOS-SDK', :tag => s.version.to_s }
+  s.source = { :git => 'https://github.com/SkyFunnel/Optimal-SkyFunnel-iOS-SDK.git', :tag => s.version.to_s }
   s.frameworks = 'CoreGraphics', 'Foundation', 'CoreTelephony', 'UIKit'
   s.weak_frameworks = 'CoreLocation', 'StoreKit'
   s.preserve_paths = 'Astrid.framework'
