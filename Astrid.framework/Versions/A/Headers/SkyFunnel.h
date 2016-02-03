@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 @interface SkyFunnel : NSObject
-
 +(SkyFunnel*)sharedInstanceWithToken:(NSString *)apiToken withLaunchOptions:(NSDictionary *)launchOptions;
-
++(SkyFunnel*)sharedInstance;
+-(void)handle:(id)notif;
 @end
